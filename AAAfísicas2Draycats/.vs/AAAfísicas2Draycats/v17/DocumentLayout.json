@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\AAAgameDevelop\\AAAf\u00EDsicas2Draycats\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF89563-0368-FC07-D160-C37D89E0E693}|Assembly-CSharp.csproj|d:\\aaagamedevelop\\aaaf\u00EDsicas2draycats\\assets\\scripts\\end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF89563-0368-FC07-D160-C37D89E0E693}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\end.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF89563-0368-FC07-D160-C37D89E0E693}|Assembly-CSharp.csproj|d:\\aaagamedevelop\\aaaf\u00EDsicas2draycats\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF89563-0368-FC07-D160-C37D89E0E693}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF89563-0368-FC07-D160-C37D89E0E693}|Assembly-CSharp.csproj|D:\\AAAgameDevelop\\AAAf\u00EDsicas2Draycats\\assets\\scripts\\enemypatrulle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF89563-0368-FC07-D160-C37D89E0E693}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemypatrulle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF89563-0368-FC07-D160-C37D89E0E693}|Assembly-CSharp.csproj|D:\\AAAgameDevelop\\AAAf\u00EDsicas2Draycats\\assets\\scripts\\bulletenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF89563-0368-FC07-D160-C37D89E0E693}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bulletenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "End.cs",
+              "DocumentMoniker": "D:\\AAAgameDevelop\\AAAf\u00EDsicas2Draycats\\Assets\\Scripts\\End.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\End.cs",
+              "ToolTip": "D:\\AAAgameDevelop\\AAAf\u00EDsicas2Draycats\\Assets\\Scripts\\End.cs",
+              "RelativeToolTip": "Assets\\Scripts\\End.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T04:22:47.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BulletEnemy.cs",
+              "DocumentMoniker": "D:\\AAAgameDevelop\\AAAf\u00EDsicas2Draycats\\Assets\\Scripts\\BulletEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BulletEnemy.cs",
+              "ToolTip": "D:\\AAAgameDevelop\\AAAf\u00EDsicas2Draycats\\Assets\\Scripts\\BulletEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BulletEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T02:07:37.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyPatrulle.cs",
+              "DocumentMoniker": "D:\\AAAgameDevelop\\AAAf\u00EDsicas2Draycats\\Assets\\Scripts\\EnemyPatrulle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyPatrulle.cs",
+              "ToolTip": "D:\\AAAgameDevelop\\AAAf\u00EDsicas2Draycats\\Assets\\Scripts\\EnemyPatrulle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyPatrulle.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T02:16:27.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\AAAgameDevelop\\AAAf\u00EDsicas2Draycats\\Assets\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\AAAgameDevelop\\AAAf\u00EDsicas2Draycats\\Assets\\Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAwCIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T23:59:08.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
